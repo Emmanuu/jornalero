@@ -1,4 +1,6 @@
 # jornalero
+![alt text](https://github.com/Emmanuu/jornalero/blob/main/site-images/JornaleroBanner.png)
+
 Jornalero is an innovative and sustainable new platform in which people who often are underrepresented in the greater labor market can achieve greater professional success, while providing a service which is useful for the average person.
 
 We have noticed that often many day laborers in our community will be stuck standing outside of hardware stores (such as Home Depot or San Lorenzo Lumber) looking for work and jobs to complete, and often are left standing out for hours without a single offer. Then often the offers these people receive are poorly paid and scarce.
