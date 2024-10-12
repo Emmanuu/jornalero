@@ -1,5 +1,6 @@
 # jornalero
 Created by Roman Rosales and Emmanuel Mendez Garcia 
+
 ![alt text](https://github.com/Emmanuu/jornalero/blob/main/site-images/JornaleroBanner.png)
 
 Jornalero is an innovative and sustainable new platform in which people who often are underrepresented in the greater labor market can achieve greater professional success, while providing a service which is useful for the average person.
